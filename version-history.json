@@ -1,5 +1,6 @@
 {
     "versions": [
-        {"version": "1.0.1", "changelog": "these are the changes", "url": "https://github.com"}
+        {"version": "1.0.1", "changelog": "these are the changes", "url": "https://github.com"},
+        {"version": "1.0.2", "changelog": "these are also changes", "url": "https://github.com/2"}
     ]
 }
